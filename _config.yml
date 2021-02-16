@@ -9,8 +9,8 @@ author: awlandy
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects:
-    - Projects: "https://github.com/awlandy/awlandy.github.io/projects/index.md"
+  Projects: "https://awlandy.github.io/projects/index.md"
+    - Projects: "https://awlandy.github.io/projects/index.md"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
