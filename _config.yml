@@ -10,7 +10,7 @@ author: awlandy
 
 navbar-links:
   Projects:
-    - Projects: "https://github.com/awlandy/awlandy.github.io/projects/"
+    - Projects: "https://github.com/awlandy/awlandy.github.io/projects/index.md"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
