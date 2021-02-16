@@ -1,5 +1,6 @@
 # awlandy.github.io
 Repository for ***my blog***.
+Where I post things that interest me.
 
 [My ***GitHub*** Page](https://github.com/awlandy/)
 
