@@ -10,7 +10,7 @@ author: awlandy
 
 navbar-links:
   Projects:
-    - All Projects: "https://awlandy.github.io/projects/index.md"
+    - All Projects: "http://awlandy.github.io/projects/"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
