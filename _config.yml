@@ -10,9 +10,10 @@ author: awlandy
 
 navbar-links:
   Projects:
-    - All Projects: "http://awlandy.github.io/projects/"
+    - All Projects: "https://awlandy.github.io/projects/"
   About Me: "aboutme"
   Resources:
+    - Minecraft 1.6 Modding: "https://awlandy.github.io/resources/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
