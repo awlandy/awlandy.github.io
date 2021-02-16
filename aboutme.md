@@ -9,4 +9,5 @@ Hong Konger / Student / Trying to mod minecraft currently
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am starting to code more and more now, and I found this beatiful github.io layout. [@daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+I hope you like it.
