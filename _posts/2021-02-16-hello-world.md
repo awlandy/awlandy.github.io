@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 subtitle: The very first chapter of this blog
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/helloworld.jpeg
+thumbnail-img: /assets/img/hello-world.png
 share-img: /assets/img/path.jpg
 tags: [blog, me, website]
 ---
