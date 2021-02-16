@@ -6,4 +6,5 @@ subtitle: All my projects and a bit about them
 
 ## Projects
 - NULL
-## [My GitHub](https://github.com/awlandy/)
+
+# View More on[GitHub](https://github.com/awlandy/)
