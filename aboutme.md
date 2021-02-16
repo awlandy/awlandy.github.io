@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: Hi, I'm Andy.
 ---
 
-My name is Andy. I'm trying to mod minecraft currently
+I'm trying to mod minecraft currently
 
 Hong Konger / Student
 
